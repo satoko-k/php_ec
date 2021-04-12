@@ -24,7 +24,7 @@
                 <dt>金額</dt>
                 <dd><input type="text" name="value" placeholder="金額を入力してください"></dd>
                 <dt>商品の紹介文</dt>
-                <dd><textarea name="description" id="" cols="30" rows="10">商品紹介文を入力してください</textarea></dd>         
+                <dd><textarea name="description" id="" cols="30" rows="10">商品紹介文</textarea></dd>         
             
             </dl>
             <ul class="btn-list">
